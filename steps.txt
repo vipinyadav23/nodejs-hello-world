@@ -1,0 +1,3 @@
+docker login -u vipinyadav23
+docker tag nodejs-hello-world vipinyadav23/nodejs-hello-world
+docker push vipinyadav23/nodejs-hello-world
